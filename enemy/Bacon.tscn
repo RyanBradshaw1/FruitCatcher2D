@@ -39,6 +39,7 @@ __meta__ = {
 }
 
 [node name="Area2D" type="Area2D" parent="."]
+collision_layer = 2
 __meta__ = {
 "_edit_group_": true
 }
